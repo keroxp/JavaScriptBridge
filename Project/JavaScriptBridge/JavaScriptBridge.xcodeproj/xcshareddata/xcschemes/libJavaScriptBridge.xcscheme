@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "149D976918758B0100129B4B"
-               BuildableName = "JavaScriptBridge.app"
-               BlueprintName = "JavaScriptBridge"
+               BlueprintIdentifier = "23B0F27818CD66740010E129"
+               BuildableName = "liblibJavaScriptBridge.a"
+               BlueprintName = "libJavaScriptBridge"
                ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -37,17 +37,13 @@
                BlueprintName = "JavaScriptBridgeTests"
                ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
             </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "JSBMessageUITests">
+               </Test>
+            </SkippedTests>
          </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
-            ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -58,15 +54,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
-            ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -76,15 +63,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
-            ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

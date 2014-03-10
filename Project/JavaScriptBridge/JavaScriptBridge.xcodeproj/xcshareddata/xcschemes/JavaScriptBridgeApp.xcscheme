@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "149D976918758B0100129B4B"
-               BuildableName = "JavaScriptBridge.app"
-               BlueprintName = "JavaScriptBridge"
+               BuildableName = "JavaScriptBridgeApp.app"
+               BlueprintName = "JavaScriptBridgeApp"
                ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
+            BuildableName = "JavaScriptBridgeApp.app"
+            BlueprintName = "JavaScriptBridgeApp"
             ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
+            BuildableName = "JavaScriptBridgeApp.app"
+            BlueprintName = "JavaScriptBridgeApp"
             ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -80,8 +80,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "149D976918758B0100129B4B"
-            BuildableName = "JavaScriptBridge.app"
-            BlueprintName = "JavaScriptBridge"
+            BuildableName = "JavaScriptBridgeApp.app"
+            BlueprintName = "JavaScriptBridgeApp"
             ReferencedContainer = "container:JavaScriptBridge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
