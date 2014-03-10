@@ -3,7 +3,7 @@
    version = "1.0">
    <Group
       location = "container:"
-      name = "Projects">
+      name = "Lib">
       <FileRef
          location = "group:Project/JavaScriptBridge/JavaScriptBridge.xcodeproj">
       </FileRef>
